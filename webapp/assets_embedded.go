@@ -11,7 +11,6 @@ import (
 
 var AssetsEmbedded = true
 
-//go:embed public
 var assets embed.FS
 
 func Assets() (http.FileSystem, error) {
