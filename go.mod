@@ -13,7 +13,7 @@ require (
 	github.com/clarkduvall/hyperloglog v0.0.0-20171127014514-a0107a5d8004
 	github.com/cosmtrek/air v1.12.2
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dgraph-io/badger/v2 v2.2007.2
+	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/fatih/color v1.13.0
 	github.com/felixge/fgprof v0.9.1
 	github.com/fsnotify/fsnotify v1.5.4
